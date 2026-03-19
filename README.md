@@ -80,7 +80,15 @@
   <a href="mailto:yr4444446@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-
                                          badge&logo=gmail&logoColor=white" /></a>
 
+</div>
+
+
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yr4444446-max&label=Profile%20views&color=0e75b6&style=flat" alt="yr4444446-max" />
 </p>
-</div>
+
+
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yr4444446-max&label=Profile%20views&color=0e75b6&style=flat" alt="yr4444446-max" />
+</p>

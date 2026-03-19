@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Yash+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+%2B+Backend+%3D+Full+Stack+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Yash+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+%2B+Backend+%3D+Full+Stack+%F0%9F%94%A5;Currently+Teaching+%26+Building+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,9 +20,9 @@
 
 - 🌍 Based in **India**, building for the world
 - 🔭 Currently building **full-stack web apps**
-- 💻 I work on both **frontend & backend** systems
-- 🌱 Always exploring **new tech & frameworks**
+- 🎓 Also **teaching coding** to others
 - 💬 Ask me about **HTML, CSS, JS, React, Python, or C#**
+- 🔥 Working with **Firebase Firestore** for real-time data
 - ✈️ Love building **travel-themed UIs**
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it
 
@@ -35,16 +35,16 @@
 <div align="center">
 
 #### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 
 #### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet&theme=dark" />
 
-#### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+#### 🔥 Database
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
 
 #### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma&theme=dark" />
 
 </div>
 
@@ -101,11 +101,11 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32"/>
   </a>
   &nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:yr4444446@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
   </a>
 </div>

@@ -126,3 +126,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          ### 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/yr4444446-max/yr4444446-max/output/github-contribution-grid-snake.svg)
